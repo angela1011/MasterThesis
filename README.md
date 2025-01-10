@@ -19,7 +19,6 @@
 # NTU Thesis
 
 📖 _Unofficial LaTeX and Word templates for your master/doctor thesis at National Taiwan University._
-Forked from Hsins/NTU-Thesis-LaTeX-Template https://hsins.github.io/NTU-Thesis/
 
 ![](https://img.shields.io/badge/LaTeX%202%CE%B5-3.14159265-blueviolet?logo=latex&style=flat-square)
 ![](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg?style=flat-square)
